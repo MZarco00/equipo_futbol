@@ -6,3 +6,4 @@
 "Alex Baena" 
 "Coquelin"
 "Fernando Alonso"
+"Pau Torres"
